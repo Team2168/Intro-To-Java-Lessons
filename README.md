@@ -19,7 +19,7 @@ This lesson covers:
 
 [Slideshow](https://docs.google.com/presentation/d/1Rj-yLH_iVOe9-8BvjNRBQY31414TcE2cPcWbz_j_4KM/edit?usp=sharing)
 
-[Video](https://www.youtube.com/watch?v=Tj8uvQCyy38)
+[Video](https://youtu.be/vfsFw-xBYqA)
 
 [Kahoot review](https://create.kahoot.it/share/intro-to-java-lesson-1/c7497912-e782-4c45-aa11-5671cb48b4f0)
 
@@ -36,7 +36,7 @@ This lesson covers:
 
 [Slideshow](https://docs.google.com/presentation/d/18a2WqYWUxE6AjauswzPmnogjBrA5PMz1rH7LuDyfxpM/edit?usp=sharing)
 
-[Video](https://www.youtube.com/watch?v=McJEoDZCdeg)
+[Video](https://youtu.be/lmgGt96HIq0)
 
 [Kahoot review](https://create.kahoot.it/share/intro-to-java-lesson-2/afa6be7f-d3a1-4e8d-a1b4-207845e41123)
 
@@ -52,7 +52,7 @@ This lesson covers:
 
 [Slideshow](https://docs.google.com/presentation/d/1vLNiDe3zJ8BN-BqzSBImWj9KIPPx8ODGz5m9piBXWHw/edit?usp=sharing)
 
-[Video](https://www.youtube.com/watch?v=wa_0MXT7dF8)
+[Video](https://youtu.be/PVPXk4oBBKI)
 
 [Kahoot review](https://create.kahoot.it/share/intro-to-java-lesson-3-review/7794e340-4e45-4304-bcbd-951bd6e39eb7)
 
@@ -65,7 +65,7 @@ This lesson covers:
 
 [Slideshow](https://docs.google.com/presentation/d/1yXBRu4CTAXmWaZf6emLp27CK1GcNviQQANsjRltoum0/edit?usp=sharing)
 
-[Video](https://www.youtube.com/watch?v=nMbluZnAqBM)
+[Video](https://youtu.be/FqD4Rr7qqI4)
 
 [Kahoot review](https://create.kahoot.it/share/intro-to-java-lesson-4/3e3c18fd-fe9f-4a2b-86cf-95366c11ae39)
 
