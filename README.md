@@ -1,5 +1,5 @@
 # Intro to Java
-FRC Team 2168's Java lessons were initally created by Kevin Harrilal in 2014. They were adapted by select members of the programming subteam, including myself, in 2020.
+FRC Team 2168's Java lessons were initally created by Kevin Harrilal in 2014. They were adapted by select members of the programming subteam, including (myself)[https://github.com/CierraO], in 2020.
 
 The lesson reviews and labs were created by me throughout the past few years.
 
