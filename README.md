@@ -71,3 +71,5 @@ This lesson covers:
 
 [Review questions (lab included in lesson)](https://docs.google.com/presentation/d/1mb7wZLfgAUzQ-PAmg9mAUfucezWdO2HcKu5AGZlF_hU/edit?usp=sharing)
 
+## Lessons 5 and 6 will be added in the future
+TBD
